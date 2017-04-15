@@ -16,3 +16,26 @@ ul{
 .list li{
   font-size: 18px;
 }
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+.NY{
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.copyright{
+  background-color: dimgray;
+  font-size: 11px;
+  color:white;
+  text-align: left;
+}
