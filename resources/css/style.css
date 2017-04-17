@@ -27,6 +27,9 @@ h3{
 p{
   font-size: 14px;
 }
+a{
+  color: white;
+}
 .NY{
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
